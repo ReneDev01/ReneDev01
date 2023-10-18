@@ -18,7 +18,7 @@ I am also passionate about project management and these methodologies :
 - Project Management: Planning, monitoring, and delivering projects on time and on budget.
 
 - Agile Methodology: Expertise in implementing Scrum and Kanban for rapid and adaptive development processes.
-- 
+
 
 - 🔭 I'm currently working on Mobile Flutter projects and Firebase
 - 🌱 I am improving my skills in Flutter and Firebase to reach a height level in mobile development
@@ -27,12 +27,11 @@ I am also passionate about project management and these methodologies :
 - 👯 I’m looking to collaborate on Flutter, Firebase, NodeJs, DevOps Project
 - 🤔 I'm looking for help to improve my skills in DevOps, Flutter and NodeJs
   
-* Ask me about ...
+*📫 Ask me about 
 
-- 📫 How to reach me: 
- #Linkedin : https://www.linkedin.com/in/r%C3%A9n%C3%A9-ahonbo
- #GitHub : https://github.com/ReneDev01
- #Email : air.reneahonbo@gmail.com
+ - Linkedin : https://www.linkedin.com/in/r%C3%A9n%C3%A9-ahonbo
+ - GitHub : https://github.com/ReneDev01
+ - Email : air.reneahonbo@gmail.com
 
 *HTags
 
