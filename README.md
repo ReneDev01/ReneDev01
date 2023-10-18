@@ -28,9 +28,12 @@ I am also passionate about project management and these methodologies :
 - 🤔 I'm looking for help to improve my skills in DevOps, Flutter and NodeJs
   
 * Ask me about ...
-* 
+
 - 📫 How to reach me: 
  #Linkedin : https://www.linkedin.com/in/r%C3%A9n%C3%A9-ahonbo
  #GitHub : https://github.com/ReneDev01
  #Email : air.reneahonbo@gmail.com
+
+*HTags
+
 #Flutter, #Project Manager, #NodeJs, #Laravel, #Firebase
